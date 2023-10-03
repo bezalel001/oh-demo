@@ -5,3 +5,6 @@ const greeting = (person) => {
 
 const user = 'Mike'
 greeting(user)
+
+
+const quest = 'What is your name';
